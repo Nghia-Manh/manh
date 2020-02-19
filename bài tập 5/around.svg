@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1ED1BD;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<g>
+	<ellipse class="st0" cx="50" cy="49.5" rx="31.5" ry="39"/>
+	<path class="st0" d="M50,11c17.09,0,31,17.27,31,38.5S67.09,88,50,88S19,70.73,19,49.5S32.91,11,50,11 M50,10
+		c-17.67,0-32,17.68-32,39.5S32.33,89,50,89s32-17.68,32-39.5S67.67,10,50,10L50,10z"/>
+</g>
+<g>
+	<rect x="48.5" y="32.5" class="st1" width="3" height="36"/>
+	<path class="st1" d="M51,33v35h-2V33H51 M52,32h-4v37h4V32L52,32z"/>
+</g>
+<g>
+	<rect x="31.5" y="48.5" class="st1" width="36" height="3"/>
+	<path class="st1" d="M67,49v2H32v-2H67 M68,48H31v4h37V48L68,48z"/>
+</g>
+<rect x="0.5" y="0.5" class="st2" width="99" height="100"/>
+<g>
+	<ellipse class="st0" cx="51" cy="51" rx="31.5" ry="30.5"/>
+	<path class="st0" d="M51,21c17.09,0,31,13.46,31,30S68.09,81,51,81S20,67.54,20,51S33.91,21,51,21 M51,20c-17.67,0-32,13.88-32,31
+		s14.33,31,32,31s32-13.88,32-31S68.67,20,51,20L51,20z"/>
+</g>
+<g>
+	<rect x="49.5" y="33.5" class="st1" width="3" height="36"/>
+	<path class="st1" d="M52,34v35h-2V34H52 M53,33h-4v37h4V33L53,33z"/>
+</g>
+<g>
+	<rect x="32.5" y="49.5" class="st1" width="36" height="3"/>
+	<path class="st1" d="M68,50v2H33v-2H68 M69,49H32v4h37V49L69,49z"/>
+</g>
+</svg>

@@ -1,0 +1,447 @@
+.container{
+    width: 100%;
+    height: 840px;
+    font-weight: 600;
+    font-family: 'Rubik', sans-serif;
+}
+.box{
+    position: relative;
+    background-color: #f1f5f8;
+    width: 100%;
+    height: 500px;
+}
+.box-title{
+    margin-left: 90px;
+    display: flex;
+    width: 1270px;
+    border-bottom:#f1f5f9 solid 1px;
+    padding: 20px 0 20px 0;
+    border-bottom: #e5e7eb solid 1px;
+}
+.box-menu{
+    text-align: center;
+}
+.left{
+    display: flex;
+    text-align: center;
+}
+.title{
+    font-weight: 900;
+    margin-top: 15px;
+    font-size: 18px;
+}
+.icon{
+    background-color: #f1f5f8;
+}
+.center{
+    display: flex;
+    margin-top: 15px;
+    color: #9093a0;
+}
+.one{
+    margin-left: 180px;
+}
+.two{
+    margin-left: 80px;
+}
+.three{
+    margin-left: 80px;
+}
+.four{
+    margin-left: 80px;
+}
+.right{
+    display: flex;
+    margin-top: 15px;
+}
+.first{
+    margin-left: 185px;
+    color: #6567fe;
+}
+.icon-right{
+    opacity: 0.4;
+    margin-left: 20px;
+}
+.second{
+    margin-left: 90px;
+    color: #878997;
+}
+.menu-title{
+    margin-top: 50px;
+    font-size: 43px;
+    color: #595cfe;
+}
+.menu-top{
+    margin-top: 20px;
+    color: #9093a0;
+}
+.menu-center{
+    display: flex;
+    text-align: center;
+    margin-top: 5px;
+}
+.center-left{
+    margin-left: 380px;
+    color: #9093a0;
+}
+.center-between{
+    color: #6567fe;
+    margin-left: 5px;
+}
+.plus{
+    color: #9093a0;
+}
+.center-right{
+    color: #3ad5c4;
+    margin-left: 5px;
+}
+.menu-finish{
+    display: flex;
+    text-align: center;
+    margin-top: 5px;
+}
+.finish-left{
+    margin-left: 630px;
+    color: #9093a0;
+}
+.finish-right{
+    margin-left: 5px;
+    color: #f19add;
+}
+.box-finish{
+    display: flex;
+    position: relative;
+    margin-top: 30px;
+    margin-left: 650px;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #4244ff;
+}
+.use{
+    color: white;
+    padding: 15px 0 0 30px;
+}
+.finish-icon{
+    margin-top: 4px;
+    margin-left: 25px;
+    position: absolute;
+    top: 315px;
+}
+.finish{
+    position: absolute;
+    border-radius: 15px;
+    width: 900px;
+    border: #dfe3e6 solid 1px;
+    box-shadow: 0px 0px 50px #c7c7c7;
+    top: 420px;
+    left: 300px;
+    font-size: 13px;
+    background-color: white;
+}
+.finish-top{
+    display: flex;
+    position: relative;
+    font-size: 12px;
+    width: 825px;
+    height: 100px;
+    font-weight: 600;
+    color: #afc7da;
+    margin-top: 30px;
+    margin-left: 40px;
+    border-radius: 25px;
+    border-top: #e1e3e7 solid 2px;
+    border-right: #e8e9ec solid 1.3px;
+}
+.border{
+    display: flex;
+    position: absolute;
+    top: 120px;
+    font-weight: 600;
+    left: 100px;
+    color: #b6b6b6;
+}
+.boder-icon-t{
+    position: relative;
+    margin-left: 80px;
+    opacity: 0.2;
+}
+.icon-st-t{
+    position: absolute;
+    margin-left: 30px;
+    top: 4px;
+}
+.icon-th-t{
+    position: absolute;
+    margin-left: 20px;
+    top: 4.5px;
+}
+.icon-second-t{
+    position: absolute;
+    margin-left: 10px;
+    top: 5px;
+}
+.icon-first-t{
+    position: absolute;
+    margin-left: 0px;
+    top: 6px;
+}
+.boder-icon-c{
+    position: relative;
+    margin-left: 150px;
+    opacity: 0.2;
+}
+.icon-st-c{
+    position: absolute;
+    margin-left: 30px;
+    top: 4.2px;
+}
+.icon-th-c{
+    position: absolute;
+    margin-left: 20px;
+    top: 4.8px;
+}
+.icon-second-c{
+    position: absolute;
+    margin-left: 10px;
+    top: 5.5px;
+}
+.icon-first-c{
+    position: absolute;
+    margin-left: 0px;
+    top: 6.5px;
+}
+.boder-icon-m{
+    position: relative;
+    margin-left: 140px;
+    opacity: 0.2;
+}
+.icon-st-m{
+    position: absolute;
+    margin-left: 30px;
+    top: 4px;
+}
+.icon-th-m{
+    position: absolute;
+    margin-left: 20px;
+    top: 4.5px;
+}
+.icon-second-m{
+    position: absolute;
+    margin-left: 10px;
+    top: 5px;
+}
+.icon-first-m{
+    position: absolute;
+    margin-left: 0px;
+    top: 6px;
+}
+.boder-icon-s{
+    position: relative;
+    margin-left: 160px;
+    opacity: 0.2;
+}
+.icon-st-s{
+    position: absolute;
+    margin-left: 30px;
+    top: 4px;
+}
+.icon-th-s{
+    position: absolute;
+    margin-left: 20px;
+    top: 4.5px;
+}
+.icon-second-s{
+    position: absolute;
+    margin-left: 10px;
+    top: 5px;
+}
+.icon-first-s{
+    position: absolute;
+    margin-left: 0px;
+    top: 6px;
+}
+.title-aline{
+    position: absolute;
+    border-radius: 20px;
+    padding: 4px 0 4px 8px;
+    width: 360px;
+    color: #bbc8d1;
+    font-weight: 600;
+    top: 18px;
+    left: 250px;
+    background: #FFF;
+    border: #b2c1cb solid 1px;
+}
+.finish-bottum{
+    background-color: #f1f5f8;
+    margin-top: 20px;
+    height: 180px;
+    color: #fff;
+    font-weight: 600;
+    border-top-style: dashed;
+    border-top-color: #b2c1cb;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.bottum-title{
+    padding: 3px 0 3px 17px;
+    margin-top: 15px;
+    width: 240px;
+    font-weight: 600;
+    background-color: #b6ccdd;
+    color: white;
+    margin-left: 300px;
+    border-radius: 15px;
+}
+.bottum-icon{
+    border-radius: 50%;
+}
+.icon-dvuln{
+    border-radius: 50%;
+}
+.icon-At{
+    border-radius: 50%;
+}
+.care-menu{
+    padding: 8px;
+}
+.care{
+    display: flex;
+    background-color: #1ed1bd;
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 845px;
+    border-radius: 15px;
+}
+.Dvuln{
+    display: flex;
+    position: relative;
+    background-color: #4244ff;
+    margin-left: 200px;
+    margin-top: 10px;
+    width: 675px;
+    border-radius: 15px;
+}
+.At{
+    display: flex;
+    position: relative;
+    background-color: #f15fcc;
+    margin-left: 524px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 350px;
+    border-radius: 15px;
+}
+.bottum-icon{
+    padding: 5px;
+}
+.combo-icon{
+    position: relative;
+    padding: 5px;
+    margin-left: 200px;
+}
+.icon-four-c{
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 8px;
+}
+.icon-three-c{
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 9px;
+}
+.icon-two-c{
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 9.5px;
+}
+.icon-one-c{
+    position: absolute;
+    margin-top: 10.3px;
+    margin-left: -5px;
+}
+.Dvuln-menu{
+    padding: 8px;
+}
+.icon-dvuln{
+    padding: 5px;
+}
+.Dvuln-combo-icon{
+    position: relative;
+    padding: 5px;
+    margin-left: 140px;
+}
+.icon-four{
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 8px;
+}
+.icon-three{
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 8.5px;
+}
+.icon-two{
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 9px;
+}
+.icon-one{
+    position: absolute;
+    margin-top: 9.7px;
+    margin-left: -5px;
+}
+.At-menu{
+    padding: 8px;
+}
+.icon-At{
+    padding: 5px;
+}
+.st{
+    padding: 3px 0 3px 7px;
+    width: 90px;
+    height: 15px;
+    margin-left: 50px;
+    margin-top: 35px;
+    border-radius: 5px;
+    background-color: #f1f5f8;
+}
+.nd{
+    padding: 3px 0 3px 7px;
+    width: 145px;
+    height: 15px;
+    border-radius: 5px;
+    background-color: #f1f5f8;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+.th{
+    padding: 3px 0 3px 7px;
+    width: 100px;
+    height: 15px;
+    border-radius: 5px;
+    background-color: #f1f5f8;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+.pro{
+    position: absolute;
+    margin-left: 600px;
+}
+.sg{
+    position: absolute;
+    margin-left: 440px;
+}
+.test{
+    position: absolute;
+    margin-left: 300px;
+}
+.cm{
+    position: absolute;
+    margin-left: 140px;
+}
+.ds{
+    position: absolute;
+    margin-left: 0px;
+}
